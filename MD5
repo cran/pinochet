@@ -1,0 +1,13 @@
+c63812dd6caf93f256cb774aa660061d *DESCRIPTION
+dd3f34167c3cc8576f13637dd304ea1c *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+9c37d5cd078805d75fa6956e1dab18a0 *R/pinochet.R
+1b0af30519ddbf20cc1dd10007773ddf *build/vignette.rds
+25967ded9951937124d4f90188b31418 *data/pinochet.RData
+f9eb7288fd13a05bc55417be0ec9d429 *inst/CITATION
+ff07a0ea0abe6da1ec29849dfb373627 *inst/doc/pinochet.R
+9fb3aecfebc21738819eb822f2931324 *inst/doc/pinochet.Rmd
+519eb816ffad59b07f28cca55d44cca7 *inst/doc/pinochet.html
+17a623fcbe0d0ace4b170fa9e7f32e52 *man/pinochet.Rd
+605278848afae5f6b176022117675bfd *vignettes/map.png
+9fb3aecfebc21738819eb822f2931324 *vignettes/pinochet.Rmd
